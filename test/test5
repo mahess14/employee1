@@ -1,9 +1,9 @@
 package gittcomm.test;
 
-public class Test6 {
+public class Test5 {
 
 	public static void main(String[] args) {
-		System.out.println("testing commit6 ok");
+		System.out.println("testing commit5 ok");
 	}
 
 }
