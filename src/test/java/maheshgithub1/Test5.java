@@ -7,7 +7,7 @@ public class Test5 {
 		int x=70;
 		int y=80;
 		int s=90;
-		int z=x+y+s;
+		int z=x+y+s; 
 		
 			System.out.println(z);
 		}
