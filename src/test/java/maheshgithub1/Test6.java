@@ -9,6 +9,7 @@ public class Test6 {
 		int r=700;
 		int oo=800;
 		int z=x+y+r+oo;
+		
 			System.out.println(z);
 		}
 	}
