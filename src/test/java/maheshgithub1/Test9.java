@@ -9,7 +9,7 @@ public class Test9 {
 		int c=700;
 		int d=800;
 		int e=900;
-		int z=a+b+c+d;
+		int z=a+b+c+d+e;
 		
 			System.out.println(z);
 		}
