@@ -1,16 +1,15 @@
 package maheshgithub1;
 
-public class Test8 {
+public class Test9 {
 
 	public static void main(String[] args) {
 
-		
-		int x=50;
-		int y=600;
-		int r=700;
-		int t=800;
-		int s=900;
-		int z=x+y+r+t;
+		int a=50;
+		int b=600;
+		int c=700;
+		int d=800;
+		int e=900;
+		int z=a+b+c+d;
 		
 			System.out.println(z);
 		}
