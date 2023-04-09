@@ -1,0 +1,19 @@
+package maheshgithub1;
+
+public class Test10 {
+
+	public static void main(String[] args) {
+
+		int a=50;
+		int b=600;
+		int c=700;
+		int d=800;
+		int e=900+900;
+		int z=a+b+c+d+e;
+		
+			System.out.println(z);
+		}
+	}
+
+
+
